@@ -38,7 +38,6 @@
 /config/master.key
 
 # Ignore the default Rails generated files
-/bin/*
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /log/*
@@ -53,9 +52,6 @@
 # Ignore .DS_Store and other system-generated files
 .DS_Store
 Thumbs.db
-
-# Ignore application configuration files
-/config/application.yml
 
 # Ignore test coverage directory
 /coverage/
